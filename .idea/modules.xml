@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Advanced1001/Advanced1001.iml" filepath="$PROJECT_DIR$/Advanced1001/Advanced1001.iml" />
       <module fileurl="file://$PROJECT_DIR$/Advanced1002/Advanced1002.iml" filepath="$PROJECT_DIR$/Advanced1002/Advanced1002.iml" />
       <module fileurl="file://$PROJECT_DIR$/PTA.iml" filepath="$PROJECT_DIR$/PTA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Others/Package0_1/Package0_1.iml" filepath="$PROJECT_DIR$/Others/Package0_1/Package0_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Others/Package0_2.iml" filepath="$PROJECT_DIR$/Others/Package0_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/package01/package01.iml" filepath="$PROJECT_DIR$/package01/package01.iml" />
     </modules>
   </component>
